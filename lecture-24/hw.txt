@@ -1,0 +1,8 @@
+yet to do
+1. Pigeon hole principale
+2. catalon numbers
+3. inclusion exclusion principale
+
+Q factorial of big numbers like 212!
+
+m=10^9 +7;

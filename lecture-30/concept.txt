@@ -1,0 +1,2 @@
+1. mocro
+2. global variable

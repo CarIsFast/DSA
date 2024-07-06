@@ -1,0 +1,3 @@
+1. merge dort using index only
+2. inversion count
+3. why time compexity of merge sort is O(nlog(n))
