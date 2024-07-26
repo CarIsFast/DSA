@@ -61,6 +61,7 @@ int main() {
     // ramesh.sleep();
     // ramesh.setWeight(101);
     // cout<<ramesh.getWeight()<<endl;
+    
     //dynamic
 
     // Animal* surash = new Animal(30);
