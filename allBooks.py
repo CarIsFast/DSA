@@ -28,6 +28,6 @@ def solve(arr ,n,m):
             low = mid +1 
     return res
 
-l = [10,20,30,40]
+l = [10,20,30,40,50]
 
-print(solve(l,len(l),2))
+print(solve(l,len(l),6))
