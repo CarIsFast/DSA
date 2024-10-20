@@ -82,5 +82,6 @@ int main() {
     cout << q.dequeue(1) << " dequeued from queue number 1" << endl;
     cout << q.dequeue(2) << " dequeued from queue number 2" << endl;
     cout << q.dequeue(1) << " dequeued from queue number 1" << endl;
+    q.enqueue(30, 1);
     return 0;
 }
