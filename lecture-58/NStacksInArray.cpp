@@ -34,17 +34,18 @@
 
 //     // Pushes 'X' into the Mth stack. Returns true if it gets pushed into the stack, and false otherwise.
 //     bool push(int x, int m)
-//     {
+//     {    
+            // check if the arr is not full
 //         if(freespot == -1) return false;
-            
+            // take the index from freespot
 //         int index = freespot;
-
+            // update freespot from teh next
 //         freespot = next[index];
-
+            // update arr
 //         arr[index] = x;
-
+            // update next
 //         next[index] = top[m-1];
-
+            // update top
 //         top[m-1] = index;
 
 //         return true;
